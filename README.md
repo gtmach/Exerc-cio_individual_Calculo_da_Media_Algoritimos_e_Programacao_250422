@@ -27,7 +27,7 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/gtmach/Exercício_individual_Calculo_da_Media_Algoritimos_e_Programacao_250422/blob/main/media_fluxograma.png)
+![fluxograma](https://github.com/gtmach/Exerc-cio_individual_Calculo_da_Media_Algoritimos_e_Programacao_250422/blob/main/media_fluxograma.png)
 
 #Última atualização 07/05/2022
 
