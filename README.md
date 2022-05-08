@@ -1,0 +1,2 @@
+# Exerc-cio_individual_Calculo_da_Media_Algoritimos_e_Programacao_250422
+Repositório para entrega do exercício.
